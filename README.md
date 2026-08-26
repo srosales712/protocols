@@ -1,4 +1,4 @@
-## Protocols Index
+## Amplicon (metabarcoding) library prep
 
 | Target Gene | Assay Name | Target Scope | Primers | Protocol SOP |
 | :--- | :--- | :--- | :--- | :--- |
