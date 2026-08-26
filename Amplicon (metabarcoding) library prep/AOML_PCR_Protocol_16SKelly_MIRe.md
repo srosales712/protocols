@@ -110,87 +110,52 @@ Protocol takes about 4 hours ([240](time_required) minutes) including thermal cy
 
 For 96-well Plate:
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| DESCRIPTION                                                                                                                                         | PRODUCT NAME AND MODEL                                      | MANUFACTURER      | QUANTITY | REMARK                                               |
-+=====================================================================================================================================================+=============================================================+===================+==========+======================================================+
-| **Durable equipment**                                                                                                                               |                                                             |                   |          |                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 100-1000 µL Pipette                                                                                                                                 | Eppendorf Research Plus Adjustable-Volume Pipette           | Eppendorf         | 1        | Can be substituted with any accurate pipette         |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 10-100 µL Pipette                                                                                                                                   | Eppendorf Research Plus Adjustable-Volume Pipette           | Eppendorf         | 1        | Can be substituted with any accurate pipette         |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 0.1-2.5 µL Pipette                                                                                                                                  | Eppendorf Research Plus Adjustable-Volume Pipette           | Eppendorf         | 1        | Can be substituted with any accurate pipette         |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 10-100 µL 8-Channel Pipette                                                                                                                         | Eppendorf Research Plus 8 Channel Pipette                   | Eppendorf         | 1        | Can be substituted with any accurate pipette         |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 0.5-10 µL 8-Channel Pipette                                                                                                                         | Eppendorf Research Plus 8 Channel Pipette                   | Eppendorf         | 1        | Can be substituted with any accurate pipette         |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Thermal cycler                                                                                                                                      | Mastercycler Nexus Thermal Cycler                           | Eppendorf         | 1        | Can be substituted with generic                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Microwave                                                                                                                                           | Generic Microwave                                           | Generic Brand     | 1        |                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Flask                                                                                                                                               | 500 mL Flask                                                | Generic Brand     | 1        | Used for mixing agarose gel solution                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Thermometer                                                                                                                                         |                                                             | any brand         | 1        | Used for monitoring agarose temperature              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Stir bars                                                                                                                                           |                                                             | any brand         | 1        | Used for mixing agarose gel solution                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Stir plate                                                                                                                                          |                                                             | any brand         | 1        | Used for mixing agarose gel solution                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 1-L Glass Container                                                                                                                                 | 1 L Glass Container                                         | Generic Brand     | 1        | Used for storing 1x TBE buffer                       |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Gel Tray & Box                                                                                                                                      | Gel Electrophoresis Box and Tray                            | Generic Brand     | 1        | Can be substituted with generic                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Gel Combs                                                                                                                                           | Gel Electrophoresis Combs                                   | Generic Brand     | 2        | Can be substituted with generic                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| **Consumable equipment**                                                                                                                            |                                                             |                   |          |                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 5mL tube for master mix                                                                                                                             |                                                             |                   | 1        | Size depends on total master-mix volume              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Platinum™ Hot Start PCR Master Mixes (2X)                                                                                                           | ThermoFisher                                                | 0.6               | (mL)     |                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Forward Primer - 16S Kelly F                                                                                                                        | 16S Kelly F Fluidigm CS1                                    | IDT               | 105      | (ul (10uM)) Primer diluted from 100uM stocks to 10uM |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Reverse Primer - 16S Kelly R                                                                                                                        | 16S Kelly R Fluidigm CS2                                    | IDT               | 105      | (ul (10uM)) Primer diluted from 100uM stocks to 10uM |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Gloves                                                                                                                                              | Nitrile Gloves, Exam Grade, Powder-free                     | ULINE             | 1        | (box) Can be substituted with generic                |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Kim Wipes                                                                                                                                           | KimWipe Delicate Task Wipers                                | KimTech           | 1        | (box) Can be substituted with generic                |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 96-well PCR Plate                                                                                                                                   |                                                             |                   | 2        |                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| PCR Plate Seal                                                                                                                                      | Silverseal, Aluminum, Traditional Adhesive                  | USA Scientific    | 2        |                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 1000µL Filter Tips                                                                                                                                  | OT-2 Filter Tips, 1000µL                                    | Opentrons         | 1        | (box) Can be substituted with generic                |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 200µL Filter Tips                                                                                                                                   | OT-2 Filter Tips, 200µL                                     | Opentrons         | 2        | (boxes) Can be substituted with generic              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 10 µL Filter tips                                                                                                                                   | TipOne Pipette Tips, 10 µL                                  | TipOne            | 2        | (boxes) Can be substituted with generic              |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Parafilm                                                                                                                                            | Parafilm M Lab Film                                         | Generic           | 1        | (roll) Can substitute with generic brand             |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| **Chemicals**                                                                                                                                       |                                                             |                   |          |                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Bleach / DNA AWAY \| Surface Decontaminant / Bleach Solution \| ThermoFisher / Any \| 1 \| (bottle) Used to sterilize lab surfaces and equipment \| |                                                             |                   |          |                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| EtOH                                                                                                                                                | Ethanol                                                     | Generic Brand     | 1        | (wash bottle) Must be molecular grade ethanol        |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| DI water                                                                                                                                            | Deionized water                                             | Generic           | 900      | (mL)                                                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Molecular water                                                                                                                                     | Invitrogen RT-PCR Grade Water                               | Fisher Scientific | 1        | (mL)                                                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| TBE Buffer (10x)                                                                                                                                    | TBE Buffer 10X Solution, Molecular Biology Grade, UltraPure | Thermo Scientific | 100      | (mL)                                                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Agarose                                                                                                                                             | Agarose LE, Molecular Biology Grade, UltraPure              | Thermo Scientific | 4        | (g)                                                  |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| SYBR Safe                                                                                                                                           | SYBR Safe DNA Gel Stain                                     | Invitrogen        | 20       | (uL) Light sensitive - do not expose to light        |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| Gel stain loading dye                                                                                                                               | DNA Gel Loading Dye (6x)                                    | Thermo Scientific | 100      | (ul per plate)                                       |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-| 100bp DNA Ladder                                                                                                                                    | Generuler 100 bp DNA Ladder                                 | Thermo Scientific | 6        | (ul per lane on gel)                                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+-------------------+----------+------------------------------------------------------+
-
-Clean-Up Protocol \| \| \| \| \| +-------------------------------------------+-------------------------------------------------------------+---------------------+-------------+----------------------------------------------------------------------+ \| Omega Beads \| Mag-Bind reg Total Pure NGS \| Omega \| 1 \| (kit) \| +-------------------------------------------+-------------------------------------------------------------+---------------------+-------------+----------------------------------------------------------------------+ \| 96-well magnetic plate \| MagDTR 96-Well Magnetic Separator \| Edge Biosystems Inc \| 1 \| Can be substituted with other brand \| +-------------------------------------------+-------------------------------------------------------------+---------------------+-------------+----------------------------------------------------------------------+ \| (OPTIONAL) Qubit \| \| \| \| \| +-------------------------------------------+-------------------------------------------------------------+---------------------+-------------+----------------------------------------------------------------------+ \| Qubit Reagents \| Qubit dsDNA Quantification Assay Kit \| Invitrogen \| 1 \| (kit) \| +-------------------------------------------+-------------------------------------------------------------+---------------------+-------------+----------------------------------------------------------------------+ \| Clear Qubit Assay tubes \| 0.5 mL thin-walled, polypropylene tubes \| Invitrogen \| 98 \| Must be correct tubes to allow for fluorometer to read concentration \| +-------------------------------------------+-------------------------------------------------------------+---------------------+-------------+----------------------------------------------------------------------+
+| DESCRIPTION | PRODUCT NAME AND MODEL | MANUFACTURER | QUANTITY | REMARK |
+| --- | --- | --- | --- | --- |
+| **Durable equipment** |  |  |  |  |
+| 100-1000 µL Pipette | Eppendorf Research Plus Adjustable-Volume Pipette | Eppendorf | 1 | Can be substituted with any accurate pipette |
+| 10-100 µL Pipette | Eppendorf Research Plus Adjustable-Volume Pipette | Eppendorf | 1 | Can be substituted with any accurate pipette |
+| 0.1-2.5 µL Pipette | Eppendorf Research Plus Adjustable-Volume Pipette | Eppendorf | 1 | Can be substituted with any accurate pipette |
+| 10-100 µL 8-Channel Pipette | Eppendorf Research Plus 8 Channel Pipette | Eppendorf | 1 | Can be substituted with any accurate pipette |
+| 0.5-10 µL 8-Channel Pipette | Eppendorf Research Plus 8 Channel Pipette | Eppendorf | 1 | Can be substituted with any accurate pipette |
+| Thermal cycler | Mastercycler Nexus Thermal Cycler | Eppendorf | 1 | Can be substituted with generic |
+| Microwave | Generic Microwave | Generic Brand | 1 |  |
+| Flask | 500 mL Flask | Generic Brand | 1 | Used for mixing agarose gel solution |
+| Thermometer |  | any brand | 1 | Used for monitoring agarose temperature |
+| Stir bars |  | any brand | 1 | Used for mixing agarose gel solution |
+| Stir plate |  | any brand | 1 | Used for mixing agarose gel solution |
+| 1-L Glass Container | 1 L Glass Container | Generic Brand | 1 | Used for storing 1x TBE buffer |
+| Gel Tray & Box | Gel Electrophoresis Box and Tray | Generic Brand | 1 | Can be substituted with generic |
+| Gel Combs | Gel Electrophoresis Combs | Generic Brand | 2 | Can be substituted with generic |
+| **Consumable equipment** |  |  |  |  |
+| 5mL tube for master mix |  |  | 1 | Size depends on total master-mix volume |
+| Platinum™ Hot Start PCR Master Mixes (2X) | Platinum™ Hot Start PCR Master Mixes (2X) | ThermoFisher | 0.6 | (mL) |
+| Forward Primer - 16S Kelly F | 16S Kelly F Fluidigm CS1 | IDT | 105 | (ul (10uM)) Primer diluted from 100uM stocks to 10uM |
+| Reverse Primer - 16S Kelly R | 16S Kelly R Fluidigm CS2 | IDT | 105 | (ul (10uM)) Primer diluted from 100uM stocks to 10uM |
+| Gloves | Nitrile Gloves, Exam Grade, Powder-free | ULINE | 1 | (box) Can be substituted with generic |
+| Kim Wipes | KimWipe Delicate Task Wipers | KimTech | 1 | (box) Can be substituted with generic |
+| 96-well PCR Plate |  |  | 2 |  |
+| PCR Plate Seal | Silverseal, Aluminum, Traditional Adhesive | USA Scientific | 2 |  |
+| 1000µL Filter Tips | OT-2 Filter Tips, 1000µL | Opentrons | 1 | (box) Can be substituted with generic |
+| 200µL Filter Tips | OT-2 Filter Tips, 200µL | Opentrons | 2 | (boxes) Can be substituted with generic |
+| 10 µL Filter tips | TipOne Pipette Tips, 10 µL | TipOne | 2 | (boxes) Can be substituted with generic |
+| Parafilm | Parafilm M Lab Film | Generic | 1 | (roll) Can substitute with generic brand |
+| **Chemicals** |  |  |  |  |
+| Bleach / DNA AWAY | Surface Decontaminant / Bleach Solution | ThermoFisher / Any | 1 | (bottle) Used to sterilize lab surfaces and equipment |
+| EtOH | Ethanol | Generic Brand | 1 | (wash bottle) Must be molecular grade ethanol |
+| DI water | Deionized water | Generic | 900 | (mL) |
+| Molecular water | Invitrogen RT-PCR Grade Water | Fisher Scientific | 1 | (mL) |
+| TBE Buffer (10x) | TBE Buffer 10X Solution, Molecular Biology Grade, UltraPure | Thermo Scientific | 100 | (mL) |
+| Agarose | Agarose LE, Molecular Biology Grade, UltraPure | Thermo Scientific | 4 | (g) |
+| SYBR Safe | SYBR Safe DNA Gel Stain | Invitrogen | 20 | (uL) Light sensitive - do not expose to light |
+| Gel stain loading dye | DNA Gel Loading Dye (6x) | Thermo Scientific | 100 | (ul per plate) |
+| 100bp DNA Ladder | Generuler 100 bp DNA Ladder | Thermo Scientific | 6 | (ul per lane on gel) |
+| **(OPTIONAL) Clean-Up Protocol** |  |  |  |  |
+| Omega Beads | Mag-Bind reg Total Pure NGS | Omega | 1 | (kit) |
+| 96-well magnetic plate | MagDTR 96-Well Magnetic Separator | Edge Biosystems Inc | 1 | Can be substituted with other brand |
+| **(OPTIONAL) Qubit** |  |  |  |  |
+| Qubit Reagents | Qubit dsDNA Quantification Assay Kit | Invitrogen | 1 | (kit) |
+| Clear Qubit Assay tubes | 0.5 mL thin-walled, polypropylene tubes | Invitrogen | 98 | Must be correct tubes to allow for fluorometer to read concentration |
 
 -   Description: E.g., "filter".
 -   Product Name and Model: Provide the official name of the product.
@@ -238,33 +203,19 @@ Clean-Up Protocol \| \| \| \| \| +-------------------------------------------+--
 
 7.  Load plate onto thermal cycler and select program to run the following steps:
 
-+-----------------------+--------------------------------+--------------+----------------+
-| **PCR step**          | **Temperature**                | **Duration** | **Repetition** |
-+=======================+================================+==============+================+
-| Initial denaturation  | 95°C                           | 15 min       | 1X             |
-+-----------------------+--------------------------------+--------------+----------------+
-| **Touchdown Cycling** | (changes -1.5°C per cycle)     |              |                |
-+-----------------------+--------------------------------+--------------+----------------+
-| Denaturation          | 94°C                           | 30 sec       | 13X            |
-+-----------------------+--------------------------------+--------------+----------------+
-| Annealing             | Start \@ 69.5°C\               | 30 sec       | 13X            |
-|                       | decrease by -1.5°C each cycle\ |              |                |
-|                       | end \@ 51.5°C                  |              |                |
-+-----------------------+--------------------------------+--------------+----------------+
-| Extension             | 72°C                           | 90 sec       | 13X            |
-+-----------------------+--------------------------------+--------------+----------------+
-| **Normal Cycling**    |                                |              |                |
-+-----------------------+--------------------------------+--------------+----------------+
-| Denaturation          | 94°C                           | 30 sec       | 25X            |
-+-----------------------+--------------------------------+--------------+----------------+
-| Annealing             | 50°C                           | 30 sec       | 25X            |
-+-----------------------+--------------------------------+--------------+----------------+
-| Extension             | 72°C                           | 45 sec       | 25X            |
-+-----------------------+--------------------------------+--------------+----------------+
-| Final extension       | 72°C                           | 10 min       | 1X             |
-+-----------------------+--------------------------------+--------------+----------------+
-| Hold                  | 4°C                            | ∞            |                |
-+-----------------------+--------------------------------+--------------+----------------+
+| PCR step | Temperature | Duration | Repetition |
+| --- | --- | --- | --- |
+| Initial denaturation | 95°C | 15 min | 1X |
+| **Touchdown Cycling** | (changes -1.5°C per cycle) |  |  |
+| Denaturation | 94°C | 30 sec | 13X |
+| Annealing | Start @ 69.5°C, decrease by -1.5°C each cycle, end @ 51.5°C | 30 sec | 13X |
+| Extension | 72°C | 90 sec | 13X |
+| **Normal Cycling** |  |  |  |
+| Denaturation | 94°C | 30 sec | 25X |
+| Annealing | 50°C | 30 sec | 25X |
+| Extension | 72°C | 45 sec | 25X |
+| Final extension | 72°C | 10 min | 1X |
+| Hold | 4°C | ∞ |  |
 
 #### Quality Control and PCR Clean-Up
 
@@ -282,7 +233,7 @@ Clean-Up Protocol \| \| \| \| \| +-------------------------------------------+--
 
 #### C. Prepare the 2% agarose gel for a **5.5 × 5.5-inch gel tray**:
 
-1.  Weigh **4 g agarose** using a laboratory scale and add to a microwave safe flask.
+1.  Weigh **4 g agarose** using a laboratory scale and add to a microwave-safe flask.
 
 2.  Add **200 mL of 1× TBE** to the flask.
 
@@ -299,14 +250,14 @@ Clean-Up Protocol \| \| \| \| \| +-------------------------------------------+--
     Place the flask on a stir plate with a stir bar and stir gently while cooling.
 
 6.  While the agarose is cooling, set up the **5.5 × 5.5-inch gel tray** in the electrophoresis chamber.
-    Make sure the tray is oriented correctly and the seals are secure before pouring the gel.
+    Make sure the tray is oriented correctly, and the seals are secure before pouring the gel.
 
-7.  Insert **well combs** (20 wells per comb, 2 combs for a total of 40 wells) into the gel tray and make sure chamber is leveled.
+7.  Insert **well combs** (20 wells per comb, 2 combs for a total of 40 wells) into the gel tray and make sure the chamber is leveled.
 
 8.  Once the agarose has cooled to approximately 60°C, add 20 µL of 10,000× SYBR Safe DNA Gel Stain to the 200 mL agarose solution (1:10,000 final dilution).
     Gently swirl to mix, avoiding bubbles.
 
-9.  Immediately close the SYBR Safe container and store it in the dark because SYBR Safe is light sensitive.
+9.  Immediately close the SYBR Safe container and store it in the dark because SYBR Safe is light-sensitive.
 
 10. Carefully pour the agarose solution into the gel tray.
 
@@ -403,7 +354,7 @@ Clean-Up Protocol \| \| \| \| \| +-------------------------------------------+--
 
 1.  After PCR QC, transfer 10 µL of the PCR product to the corresponding well of a new 96-well plate.
     -   Reserve at least one well empty for Michigan State's sequencing negative control. MSU adds its own negative control.
-2.  Seal plate, label with ID and place in freezer till day of shipping.
+2.  Seal plate, label with ID, and place in freezer till day of shipping.
 3.  Fill out Illumina Sample Submission form with sample information and 96-well plate format.
     -   Can be found online at: [LIMS Project Submission](https://rtsf.natsci.msu.edu/genomics/lims-project-submission.aspx)
 4.  Login to [LabLink](https://msu.claritylims.com/lablink/login) and create a project for the sequencing run.
@@ -417,7 +368,7 @@ Clean-Up Protocol \| \| \| \| \| +-------------------------------------------+--
 
 Information on sequencing is provided by Michigan State University's Genomics Core Facility:
 
-The Genomics Core performs a secondary PCR using dual-indexed, Illumina compatible primers which target the Fluidigm CS1/CS2 oligomers at the ends of the primary PCR products.
+The Genomics Core performs a secondary PCR using dual-indexed, Illumina compatible primers that target the Fluidigm CS1/CS2 oligomers at the ends of the primary PCR products.
 Amplicons are batch normalized using the Invitrogen SequalPrep DNA Normalization plates and the recovered product is pooled.
 The pool is QC'd and quantified using a combination of Qubit dsDNA HS and Agilent 4200 TapeStation HS DNA1000 assays.
 
